@@ -1,1 +1,7 @@
-Azure + Github Workshop
+Azure + Github Workshop.
+I am Roshan Khan working on Azure +Github Workshop.
+This is my first workshop on github and azure.
+Thanks for reading me .
+We will see more changes right now 
+here you will learn more of the stuff.
+By the instructor listen carefully.
